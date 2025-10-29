@@ -1,21 +1,6 @@
 
 
 body {
-  font-family: Arial, sans-serif;
-  background-color: #f0f8ff;
-  text-align: center;
-  padding: 50px;
-}
-h1 {
-  color: #007acc;
-}
-p {
-  color: #333333;
-  font-size: 18px;
-}
-
-
-body {
   font-family: "Segoe UI", Arial, sans-serif;
   background-color: #f4faff;
   color: #333;
