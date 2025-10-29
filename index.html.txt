@@ -10,3 +10,48 @@
   <p>Welcome to my first website hosted on GitHub Pages!</p>
 </body>
 </html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sanjay Kumar | Networking Engineer</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to Sanjay Kumar’s Website</h1>
+    <p>Computer Hardware & Networking Engineer</p>
+  </header>
+
+  <main>
+    <section class="intro">
+      <h2>About Me</h2>
+      <p>
+        I am a Computer Hardware and Networking Engineer, and I have created this simple website for training purposes.
+      </p>
+    </section>
+
+    <section class="skills">
+      <h2>Skills</h2>
+      <ul>
+        <li>PC Assembling & Troubleshooting</li>
+        <li>Network Configuration (LAN/WAN)</li>
+        <li>Router & Switch Setup</li>
+        <li>Operating System Installation</li>
+      </ul>
+    </section>
+
+    <section class="contact">
+      <h2>Contact</h2>
+      <p>📧 Email: <a href="mailto:sanjay@example.com">sanjay@example.com</a></p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Sanjay Kumar | For Training Purpose</p>
+  </footer>
+</body>
+</html>
